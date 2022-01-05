@@ -8,6 +8,9 @@
 <br>
 <br>
 
+<img align="right" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="240" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmaikon&count_private=true&show_icons=true&theme=onedark)
+
 ```javascript
   const Thomas = {
     about: "I'm student of Computer Science, Back-end Developer and a gaming enthusiast",
@@ -15,10 +18,7 @@
     tools: [Node, Spring, .Net, Docker],
   }
 ```
-<br>
-<br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmaikon&count_private=true&show_icons=true&theme=onedark)
 <br>
 <br>
 
