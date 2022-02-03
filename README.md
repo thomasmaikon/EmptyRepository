@@ -11,12 +11,25 @@
 <img align="right" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="240" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thomasmaikon&count_private=true&show_icons=true&theme=onedark)
 
-```javascript
-  const Thomas = {
+```Go
+type People struct {
+    about   string
+    languages  []string
+    tools   []string
+    more string
+}
+
+func main(){
+
+  thomas := Peopgle{
     about: "I'm student of Computer Science, Back-end Developer and a gaming enthusiast",
-    code : [C/C++, C#, java, HTML, CSS, JavaScript, Python, SystemVerilog, Go],
-    tools: [Node, Spring, .Net, Docker, Gin],
+    code : []string{"C/C++", "C#", "java", "HTML", "CSS", "JavaScript", "Python", "SystemVerilog", "Go"},
+    tools: []string{"Node", "Spring", ".Net", "Docker", "Gin"},
+    more: "Particularly passionate about the Go language due to its similarity with C," +
+          "i started in computing with embedded systems working with Arduino."
   }
+  
+ }
 ```
 
 <br>
