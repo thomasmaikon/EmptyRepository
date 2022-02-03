@@ -15,7 +15,7 @@
   const Thomas = {
     about: "I'm student of Computer Science, Back-end Developer and a gaming enthusiast",
     code : [C/C++, C#, java, HTML, CSS, JavaScript, Python, SystemVerilog, Go],
-    tools: [Node, Spring, .Net, Docker],
+    tools: [Node, Spring, .Net, Docker, Gin],
   }
 ```
 
