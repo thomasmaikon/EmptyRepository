@@ -21,7 +21,7 @@ type People struct {
 
 func main(){
 
-  thomas := Peopgle{
+  thomas := People{
     about: "I'm student of Computer Science, Back-end Developer and a gaming enthusiast",
     code : []string{"C/C++", "C#", "java", "HTML", "CSS", "JavaScript", "Python", "SystemVerilog", "Go"},
     tools: []string{"Node", "Spring", ".Net", "Docker", "Gin"},
