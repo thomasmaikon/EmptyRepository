@@ -25,9 +25,7 @@ func main(){
     about: "I'm student of Computer Science, Back-end Developer and a gaming enthusiast",
     code : []string{"C/C++", "C#", "java", "HTML", "CSS", "JavaScript", "Python", "SystemVerilog", "Go"},
     tools: []string{"Node", "Spring", ".Net", "Docker", "Gin"},
-    more: "Particularly passionate about the Go language due to its similarity with C," +
-          "i started in computing with embedded systems working with Arduino."
-  }
+   }
   
  }
 ```
