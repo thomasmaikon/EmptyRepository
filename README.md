@@ -23,8 +23,8 @@ func main(){
 
   thomas := People{
     about: "I'm student of Computer Science, Back-end Developer and a gaming enthusiast",
-    code : []string{"C/C++", "C#", "java", "HTML", "CSS", "JavaScript", "Python", "SystemVerilog", "Go"},
-    tools: []string{"Node", "Spring", ".Net", "Docker", "Gin"},
+    code : []string{"C/C++", "java", "HTML", "CSS", "JavaScript", "Python", "SystemVerilog"},
+    tools: []string{"Node", "Spring", "Docker", "React"},
    }
   
  }
