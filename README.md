@@ -1,6 +1,6 @@
 
 <h1 align="center"> 
-   Hi :v:, i'm Thomas Maikon!
+   Hi :raised_hand_with_fingers_splayed:, i'm Thomas Maikon!
 </h1>
 
 
