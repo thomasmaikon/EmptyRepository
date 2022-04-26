@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning and working with **Java and Spring** 
 - 💻 I’m currently working on **SolarZ**
 - 📚 I already studied about: C#, C/C++, Python, JavaScript, NodeJS, React, .Net, Postgres and Docker
-   - 🔥 Docker, Postgres and React (currently studying too)
+   - 🔥 Docker, Postgres, GO and React (currently studying too)
 
 <br/>
 
