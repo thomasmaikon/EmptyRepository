@@ -10,10 +10,10 @@
 
 <img align="right" src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="240" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 -I'm a Computer Science student, Backend Developer and game lover
-- 🌱 I’m currently learning and working with **Java and Spring** 
+- 🌱 I’m currently learning and working with **C#(.Net), Angular and Go** 
 - 💻 I’m currently working on **Viasoft Korp**
 - 📚 I already studied about: C#, C/C++, Python, JavaScript, NodeJS, React, .Net, Postgres and Docker
-   - 🔥 Docker, Postgres, GO and React (currently studying too)
+   - 🔥 Docker, Postgres, GO and React (currently learning)
 
 <br/>
 
